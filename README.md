@@ -6,33 +6,37 @@
 
 ![](https://img.shields.io/badge/Fabric-DBA463?style=for-the-badge&logoColor=white)&nbsp;![](https://img.shields.io/badge/NeoForge-F16436?style=for-the-badge&logoColor=white)
 
-![](https://img.shields.io/badge/Minecraft-26.1.x_·_26.2.x-62B47A?style=flat-square) ![](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![](https://img.shields.io/badge/Minecraft-26.x_+_1.21.x-62B47A?style=flat-square) ![](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 </div>
 
 ---
 
 A collection of lightweight, config-driven mods — each does one thing well. Every mod ships a single
-**universal jar** that runs on both **Fabric** and **NeoForge**, targeting **Minecraft 26.1.x and 26.2.x**.
+**universal jar** that runs on both **Fabric** and **NeoForge**. The current target is **Minecraft 26.x**,
+with **back-ports to earlier 1.21.x versions** for several mods (listed per row).
 
 ## 🧩 The mods
 
-| Mod | What it does | Loaders | Links |
-|-----|--------------|:-------:|:-----:|
-| **chiseledEnchants** | Targeted enchanting — stock chiseled bookshelves with single-enchant books to guarantee exactly the enchants you want. | Fabric · NeoForge · Paper 🚧 | [GitHub](https://github.com/LunixiaLIVE/chiseledEnchants) · [Modrinth](https://modrinth.com/project/chiseledenchants) |
-| **expRepair** | Repair your gear with experience instead of an anvil. | Fabric · NeoForge | [GitHub](https://github.com/LunixiaLIVE/expRepair) |
-| **expTrade** | Trade experience points between players. | Fabric · NeoForge | [GitHub](https://github.com/LunixiaLIVE/expTrade) |
-| **flightSync** | Keep flight / allow-flight state in sync. | Fabric · NeoForge | [GitHub](https://github.com/LunixiaLIVE/flightSync) |
-| **nixStats** | A configurable on-screen player-stats HUD. | Fabric · NeoForge | [GitHub](https://github.com/LunixiaLIVE/nixStats) |
-| **pvpOption** | Opt-in PvP flagging — players choose whether they can be fought. | Fabric · NeoForge | [GitHub](https://github.com/LunixiaLIVE/pvpOption) |
-| **svrUptime** | Track and display server uptime. | Fabric · NeoForge | [GitHub](https://github.com/LunixiaLIVE/svrUptime) |
+| Mod | What it does | Loaders | Minecraft | Links |
+|-----|--------------|:-------:|:---------:|:-----:|
+| **chiseledEnchants** | Targeted enchanting via chiseled bookshelves — guarantee the enchants you want. | Fabric · NeoForge · Paper 🚧 | 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/chiseledEnchants) · [Modrinth](https://modrinth.com/project/chiseledenchants) |
+| **expRepair** | Repair your gear with experience instead of an anvil. | Fabric · NeoForge | 1.21.5 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/expRepair) |
+| **expTrade** | Trade experience points between players. | Fabric · NeoForge | 1.21.9 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/expTrade) |
+| **flightSync** | Keep flight / allow-flight state in sync. | Fabric · NeoForge | 1.21 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/flightSync) |
+| **nixStats** | A configurable on-screen player-stats HUD. | Fabric · NeoForge | 1.21.9 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/nixStats) |
+| **pvpOption** | Opt-in PvP flagging — players choose whether they can be fought. | Fabric · NeoForge | 1.21.1 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/pvpOption) |
+| **svrUptime** | Track and display server uptime. | Fabric · NeoForge | 1.21 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/svrUptime) |
 
 > 🚧 = in development. Modrinth / CurseForge links appear as each mod is published.
+>
+> **Paper plugins:** chiseledEnchants has a Paper build for 26.x (in development); expTrade, pvpOption, and
+> svrUptime also have older Paper plugins for 1.21.11.
 
 ## ✨ Shared traits
 
 - **Fabric + NeoForge** — one universal jar per mod, no separate downloads.
-- **Minecraft 26.1.x + 26.2.x.**
+- **Minecraft 26.x**, with **1.21.x back-ports** for several mods.
 - **Config-driven** — tune the behaviour to your server or world.
 - **MIT-licensed** — free to use, fork, and learn from.
 
