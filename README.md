@@ -21,7 +21,7 @@ with **back-ports to earlier 1.21.x versions** for several mods (listed per row)
 | Mod | What it does | Loaders | Minecraft | Links |
 |-----|--------------|:-------:|:---------:|:-----:|
 | **chiseledEnchants** | Targeted enchanting via chiseled bookshelves — guarantee the enchants you want. | Fabric · NeoForge · Paper 🚧 | 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/chiseledEnchants) · [Modrinth](https://modrinth.com/project/chiseledenchants) |
-| **expRepair** | Repair your gear with experience instead of an anvil. | Fabric · NeoForge | 1.21.5 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/expRepair) |
+| **expRepair** | Repair your gear with experience instead of an anvil. | Fabric · NeoForge | 1.21.5 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/expRepair) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/exprepair) |
 | **expTrade** | Trade experience points between players. | Fabric · NeoForge | 1.21.9 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/expTrade) |
 | **flightSync** | Keep flight / allow-flight state in sync. | Fabric · NeoForge | 1.21 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/flightSync) |
 | **nixStats** | A configurable on-screen player-stats HUD. | Fabric · NeoForge | 1.21.9 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/nixStats) |
