@@ -20,7 +20,7 @@ with **back-ports to earlier 1.21.x versions** for several mods (listed per row)
 
 | Mod | What it does | Loaders | Minecraft | Links |
 |-----|--------------|:-------:|:---------:|:-----:|
-| **chiseledEnchants** | Targeted enchanting via chiseled bookshelves — guarantee the enchants you want. | Fabric · NeoForge · Paper 🚧 | 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/chiseledEnchants) · [Modrinth](https://modrinth.com/project/chiseledenchants) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chiseledenchants-multi) |
+| **chiseledEnchants** | Targeted enchanting via chiseled bookshelves — guarantee the enchants you want. | Fabric · NeoForge · Paper 🚧 | 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/chiseledEnchants) · [Modrinth](https://modrinth.com/mod/chiseledenchants) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chiseledenchants-multi) |
 | **expRepair** | Repair your gear with experience instead of an anvil. | Fabric · NeoForge | 1.21.5 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/expRepair) · [Modrinth](https://modrinth.com/project/exprepair) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/exprepair) |
 | **expTrade** | Trade experience points between players. | Fabric · NeoForge | 1.21.9 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/expTrade) · [Modrinth](https://modrinth.com/project/exptrade) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/exptrade-mod) |
 | **flightSync** | Keep flight / allow-flight state in sync. | Fabric · NeoForge | 1.21 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/flightSync) · [Modrinth](https://modrinth.com/project/flightsync) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flightsync) |
@@ -28,7 +28,7 @@ with **back-ports to earlier 1.21.x versions** for several mods (listed per row)
 | **pvpOption** | Opt-in PvP flagging — players choose whether they can be fought. | Fabric · NeoForge | 1.21.1 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/pvpOption) · [Modrinth](https://modrinth.com/project/pvpoption) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pvpoption-mod) |
 | **svrUptime** | Track and display server uptime. | Fabric · NeoForge | 1.21 · 1.21.11 · 26.1.x · 26.2.x | [GitHub](https://github.com/LunixiaLIVE/svrUptime) · [Modrinth](https://modrinth.com/project/svruptime) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/svruptime) |
 
-> 🚧 = in development. chiseledEnchants' Modrinth listing is pending approval; every other link is live.
+> 🚧 = in development. All Modrinth & CurseForge links are live.
 >
 > **Paper plugins:** chiseledEnchants has a Paper build for 26.x (in development); expTrade, pvpOption, and
 > svrUptime also have older Paper plugins for 1.21.11.
