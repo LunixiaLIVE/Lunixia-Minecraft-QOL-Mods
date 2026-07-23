@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 🎮 Lunixia's Minecraft QOL Mods
 
@@ -13,7 +13,7 @@
 ---
 
 A collection of lightweight, config-driven mods — each does one thing well. Every mod ships a single
-**universal jar** that runs on both **Fabric** and **NeoForge**. The current target is **Minecraft 26.x**,
+**jar** that runs on both **Fabric** and **NeoForge**. The current target is **Minecraft 26.x**,
 with **back-ports to earlier 1.21.x versions** for several mods (listed per row).
 
 ## 🧩 The mods
@@ -35,7 +35,7 @@ with **back-ports to earlier 1.21.x versions** for several mods (listed per row)
 
 ## ✨ Shared traits
 
-- **Fabric + NeoForge** — one universal jar per mod, no separate downloads.
+- **Fabric + NeoForge** — one jar per mod, no separate downloads.
 - **Minecraft 26.x**, with **1.21.x back-ports** for several mods.
 - **Config-driven** — tune the behaviour to your server or world.
 - **MIT-licensed** — free to use, fork, and learn from.
